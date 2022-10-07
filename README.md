@@ -1,2 +1,3 @@
 My first readme
-Updated Readme
+
+Just one of those random projects during my alx internship
